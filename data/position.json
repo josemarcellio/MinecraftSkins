@@ -1,0 +1,20 @@
+{
+    "front_parts_coords": {
+        "head_front": [8, 8, 16, 16],
+        "hair_layer_front": [40, 8, 48, 16],
+        "body_front": [20, 20, 28, 36],
+        "left_arm_front": [44, 20, 48, 36],
+        "right_arm_front": [36, 52, 40, 64],
+        "left_leg_front": [4, 20, 8, 36],
+        "right_leg_front": [20, 52, 24, 64]
+    },
+    "front_positions": {
+        "head_front": [5, 1],
+        "hair_layer_front": [5, 1],
+        "body_front": [5, 9],
+        "left_arm_front": [1, 9],
+        "right_arm_front": [13, 9],
+        "left_leg_front": [5, 21],
+        "right_leg_front": [9, 21]
+    }
+}
